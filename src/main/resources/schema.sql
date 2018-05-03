@@ -1,0 +1,9 @@
+CREATE table MESSAGE(
+
+id VARCHAR (255) NOT NULL,
+message VARCHAR(255) NOT NULL,
+
+
+); 	
+
+
